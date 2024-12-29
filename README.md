@@ -1,0 +1,1 @@
+This repository demonstrates a common C++ error: using `delete` on a stack-allocated variable. The `bug.cpp` file contains the erroneous code.  `bugSolution.cpp` shows the correct approach, which is not using `delete` at all in this scenario.
